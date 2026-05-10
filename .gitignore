@@ -1,0 +1,19 @@
+# Things to ignore:
+*.blend
+*.blend1
+*.blend2
+*.vdb
+*.csv
+
+blendcache_*
+/BA_Felisiak
+/godot_projects
+.venv
+# *.csv
+.vscode
+__pycache__
+/blender/example/output
+/blender/example/scenes
+/blender/example/scripts
+/blender/core/caustics/
+/blender/core/example/data
