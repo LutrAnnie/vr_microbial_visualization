@@ -2,6 +2,8 @@
 *.blend
 *.blend1
 *.blend2
+# BUT allow this one exception
+!blender/core/resources/geonodes_portal_27-03-26.blend
 *.vdb
 *.csv
 
